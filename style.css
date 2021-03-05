@@ -1,0 +1,64 @@
+body {
+
+    background: white;
+}
+
+header {
+    color: black;
+    background-image: url("/assets/kevinfloatwebsite.jpg");
+    background-size: cover;
+    position: relative;
+    margin: 20px;
+    height: 350px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#topMenu {
+    color: white;
+    font-size: 20px;
+    background-color: rgba(0,0,0,.7);
+    text-align: center;
+    margin-top: auto;
+    vertical-align: bottom;
+    position: absolute;
+    bottom: 0;
+    margin: 0 auto;
+    width:  100%;
+}
+
+a {
+    color: white;
+    text-decoration:none;
+}
+
+a.visited {
+    color: white;
+}
+
+#headshot { 
+    width: 20%;
+    height: auto;
+    position: absolute;
+    right: 10%;
+    margin-top: -1000px;
+}
+
+.icons {
+    color: black;
+}
+
+button { 
+    font-size: 25px;
+    background-color: black;
+    border-radius: 20px;
+    border: none; 
+    color: white;
+}
+
+button:hover {
+    background-color: grey;
+}
