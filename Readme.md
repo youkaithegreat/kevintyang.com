@@ -6,6 +6,18 @@ Open with index.html or a live version can be found at www.kevintyang.com as of 
 
 There's a surprise with the "no code" button"
 
+The primary files are
+
+index.html
+author.html
+resume.html
+backend.js
+style.css
+
+the images in assets
+
+The other files are all carry over from font awesome, but had trouble with relative pathing without pulling it into the main code. I could have pulled Font Awesome from a server and possibly even prismjs, but wanted it specifically to be able to run from a zip file. 
+
 ### Dependencies
 * HTML/CSS/JS 
 * Font Awesome and it's library for icons
