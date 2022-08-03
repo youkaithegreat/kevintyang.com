@@ -30,3 +30,4 @@ https://fontawesome.com/icons/search
 https://www.freeformatter.com/html-formatter.html#ad-output
 
 ### Last Updated June 8th, 2022
+Site will now be archived, so that I can work on a new portfolio website
